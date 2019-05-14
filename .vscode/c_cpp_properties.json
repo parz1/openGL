@@ -2,7 +2,7 @@
     "configurations": [
         {
             "name": "MinGW",
-            "intelliSenseMode": "gcc-x64",
+            "intelliSenseMode": "clang-x64",
             "compilerPath": "C:/LLVM/bin/gcc.exe",
             "includePath": [
                 "${workspaceFolder}"
