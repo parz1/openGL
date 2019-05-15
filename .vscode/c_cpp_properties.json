@@ -5,14 +5,18 @@
             "intelliSenseMode": "clang-x64",
             "compilerPath": "C:/LLVM/bin/gcc.exe",
             "includePath": [
-                "${workspaceFolder}",
-                "${workspaceFolder}/include"
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/include/**"
             ],
-            "defines": [],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
             "browse": {
                 "path": [
-                    "${workspaceFolder}",
-                    "${workspaceFolder}/include"
+                    "${workspaceFolder}/**",
+                    "${workspaceFolder}/include/**"
                 ],
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""

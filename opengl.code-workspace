@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.defaultLanguage": "cpp",
+		"clang.cflags": [
+			"--target=x86_64-w64-mingw",
+			"-std=c11",
+			"-Wall"
+		],
+		"clang.cxxflags": [
+			"--target=x86_64-w64-mingw",
+			"-std=c++17",
+			"-Wall"
+		],
+		"clang.completion.enable": true
+	}
+}
