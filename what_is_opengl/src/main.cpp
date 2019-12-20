@@ -4,6 +4,21 @@
 // settings
 const unsigned int SCR_WIDTH = 800;
 const unsigned int SCR_HEIGHT = 600;
+
+void drawPoint()
+{
+    /* Draw a point */
+    glClearColor (0.0, 0.0, 0.0, 0.0); 
+    glClear(GL_COLOR_BUFFER_BIT);
+        
+    glPointSize(2.0f);
+    glBegin(GL_POINTS);
+ 
+    glColor3f(1.0, 0.0, 0.0);    // Red
+    glVertex2f(0.0f,0.0f);
+    glVertex2f(0.5f,0.8f);
+    glEnd();
+}
 int main()
 {
 	// glfw: initialize and configure
@@ -36,7 +51,7 @@ int main()
 	// -----------
 	while (!glfwWindowShouldClose(window))
 	{
-		glClearColor(0.0f, 1.f, 0.0f, 1.0f);
+		glClearColor(1.0f, 1.0f, 1.0f, 1.0f);
 		glClear(GL_COLOR_BUFFER_BIT);
 		// glfw: swap buffers and poll IO events (keyspressed/released, mouse moved etc.)
 		// ---------------------------------------------------

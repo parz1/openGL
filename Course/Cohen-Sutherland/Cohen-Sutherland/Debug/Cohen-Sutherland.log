@@ -1,0 +1,4 @@
+﻿  Cohen-Sutherland.cpp
+c:\users\parzi\source\repos\cohen-sutherland\cohen-sutherland\cohen-sutherland.cpp(115): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\parzi\source\repos\cohen-sutherland\cohen-sutherland\cohen-sutherland.cpp(194): warning C4018: “<”: 有符号/无符号不匹配
+  Cohen-Sutherland.vcxproj -> C:\Users\parzi\source\repos\Cohen-Sutherland\Debug\Cohen-Sutherland.exe

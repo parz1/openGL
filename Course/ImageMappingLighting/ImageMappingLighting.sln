@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageMappingLighting", "ImageMappingLighting\ImageMappingLighting.vcxproj", "{577F36DE-CA25-4D02-8443-AF16D7A7CA5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577F36DE-CA25-4D02-8443-AF16D7A7CA5E}.Debug|x64.ActiveCfg = Debug|x64
+		{577F36DE-CA25-4D02-8443-AF16D7A7CA5E}.Debug|x64.Build.0 = Debug|x64
+		{577F36DE-CA25-4D02-8443-AF16D7A7CA5E}.Debug|x86.ActiveCfg = Debug|Win32
+		{577F36DE-CA25-4D02-8443-AF16D7A7CA5E}.Debug|x86.Build.0 = Debug|Win32
+		{577F36DE-CA25-4D02-8443-AF16D7A7CA5E}.Release|x64.ActiveCfg = Release|x64
+		{577F36DE-CA25-4D02-8443-AF16D7A7CA5E}.Release|x64.Build.0 = Release|x64
+		{577F36DE-CA25-4D02-8443-AF16D7A7CA5E}.Release|x86.ActiveCfg = Release|Win32
+		{577F36DE-CA25-4D02-8443-AF16D7A7CA5E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B13B79AC-2AFA-4203-9EA9-366641B13F6F}
+	EndGlobalSection
+EndGlobal

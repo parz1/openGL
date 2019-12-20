@@ -1,0 +1,4 @@
+﻿  Texture.cpp
+c:\users\parzi\documents\projects\opengl\course\imagemappinglighting\imagemappinglighting\texture.cpp(69): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\parzi\documents\projects\opengl\course\imagemappinglighting\imagemappinglighting\texture.cpp(207): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+  ImageMappingLighting.vcxproj -> C:\Users\parzi\Documents\projects\openGL\Course\ImageMappingLighting\Debug\ImageMappingLighting.exe

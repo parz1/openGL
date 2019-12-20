@@ -1,0 +1,4 @@
+﻿  Transform2D.cpp
+c:\users\parzi\documents\projects\opengl\course\transform2d\transform2d\transform2d.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\parzi\documents\projects\opengl\course\transform2d\transform2d\transform2d.cpp(215): warning C4018: “<”: 有符号/无符号不匹配
+  Transform2D.vcxproj -> C:\Users\parzi\Documents\projects\openGL\Course\Transform2D\Debug\Transform2D.exe
